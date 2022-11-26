@@ -8,7 +8,7 @@ despliegue de manera automática al detectar cambios.
 
 ## Alcance 
 se buscara un proyecto desarrollado, se generará definiran contenedores, se instalará Jenkins, Terraform y un proyecto definido. Se publicará en Github
-Se utilizará un tablero Kanban para definir los proceso, desarrollo iterativo, auto organizcion y bloque de tiempo para definir el programa.
+Se utilizará un tablero Kanban para definir los proceso, desarrollo iterativo, auto organizcion y bloque de tiempo para definir el programa.<br>
 SCRUM<br>
 Principios
 <ul>
