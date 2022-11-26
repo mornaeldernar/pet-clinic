@@ -66,6 +66,6 @@ este repositorio creará un docker con mysql en el puerto 3307 y otro docker con
 Este repositorio se copió de [spring-petclinic/spring-framework-petclinic](https://github.com/spring-petclinic/spring-framework-petclinic).
 
 Es utilizada por [Online DevOps Dojo](https://github.com/dxc-technology/online-devops-dojo) para practicar con los devops.
-se agregaron vulnerabilides para propositos de entrenamiento. La aplicacion origina se encuentra en [original repository](https://github.com/spring-projects/spring-petclinic).
+Se agregaron vulnerabilides para propositos de entrenamiento. La aplicacion origina se encuentra en [original repository](https://github.com/spring-projects/spring-petclinic).
 
 <img width="1042" alt="petclinic-screenshot" src="https://cloud.githubusercontent.com/assets/838318/19727082/2aee6d6c-9b8e-11e6-81fe-e889a5ddfded.png">
