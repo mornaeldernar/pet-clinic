@@ -27,14 +27,15 @@ testProcessUpdateOwnerFormSuccess
 testProcessUpdateOwnerFormHasErrors
 testShowOwner
 
-//IMAGEN TEST 1
-//IMAGEN TEST 2
+	
+![alt text](https://github.com/mornaeldernar/pet-clinic/blob/main/img/tests.png?raw=true)
+![alt text](https://github.com/mornaeldernar/pet-clinic/blob/main/img/tests_code.png?raw=true)
 
 ## Imagen y contenedor, diferencias
 Una imagen es un sistema completo (un sistema operativo completo)
 un contenedor, esta aislado del sistema operativo, tiene solo lo que se necesita para ejecutar la aplicacion ( su aplicacion y dependencias ). Sirven para poder replicar la aplicacion en cualquier ambiente sin problemas
 
-//IMAGEN DE DOCKER
+![alt text](https://github.com/mornaeldernar/pet-clinic/blob/main/img/docker.png?raw=true)
 
 ## GitHUB
 Se crearon distintos repositorios de github con diferentes branches.
@@ -45,19 +46,20 @@ https://github.com/mornaeldernar/myAPI-terraform.git
 https://github.com/mornaeldernar/pet-clinic.git
 
 
-##Terraform
+## Terraform
 Descargar Terraform.
 En el proyecto https://github.com/mornaeldernar/myAPI-terraform.git correr los comandos
 'terraform init' para inicializar terraform
 'terraform plan' para ver los cambios que hará en el terraform
-// IMAGEN TERRAFORM
+![alt text](https://github.com/mornaeldernar/pet-clinic/blob/main/img/terraform.png?raw=true)
+
 'terraform apply' para ejecutar el plan 
 este repositorio creará un docker con mysql en el puerto 3307 y otro docker con jenkins en el puerto 8081
 
-## Se corre instala terraform y ejecuta
+## Jenkins
 
-
-
+![alt text](https://github.com/mornaeldernar/pet-clinic/blob/main/img/jenkins1.png?raw=true)
+![alt text](https://github.com/mornaeldernar/pet-clinic/blob/main/img/jenkins2.png?raw=true)
 
 # Spring PetClinic Application
 
