@@ -8,10 +8,33 @@ despliegue de manera automática al detectar cambios.
 
 ## Alcance 
 se buscara un proyecto desarrollado, se generará definiran contenedores, se instalará Jenkins, Terraform y un proyecto definido. Se publicará en Github
-Se utilizará un tablero Kanban para definir los proceso, desarrollo iterativo, auto organizcion y bloque de tiempo para definir el programa
-Scrum se utiliza para equipos de trabajo y como es individual se utilizará KANBAN, pero se utilizará desarrollo iterativo, auto organizacion y bloque de tiempo.
+Se utilizará un tablero Kanban para definir los proceso, desarrollo iterativo, auto organizcion y bloque de tiempo para definir el programa.
+SCRUM<br>
+Principios
+<ul>
+<li>Control del proceso empirico - Transparencia, inspeccion y adaptacion</li>
+<li>auto organización -responsabilidad y compromiso </li>
+<li>colaboracion - solo soy 1 persona</li>
+<li>priorizacion basada en valor - máximo valor al negocio</li>
+<li>asignación de un bloque de tiempo - el tiempo es limitante</li>
+<li>desarrollo iterativo - saber manejar los cambios</li>
+</ul>
 VALORES
+<ul>
+<li>Foco - enfocarse en el trabajo del sprint</li>
+<li>Coraje - de hacer lo correcto</li>
+<li>Apertura - abierto con todo el trabajo</li>
+<li>Compromiso - alcanzar lo objetivos</li>
+<li>Respeto</li>
+</ul>
 ASPECTOS
+<ul>
+<li>Organizacion - NA solo soy 1 persona</li>
+<li>Justificacion - entrega impulsada en valor</li>
+<li>calidad - cumplir con los criterios de aceptacion</li>
+<li>cambio - aceptar el cambio</li>
+<li>riesgo - a eventos inciertos</li>
+</ul>
 
 <a href="https://github.com/users/mornaeldernar/projects/4/">Tableros</a>
 
