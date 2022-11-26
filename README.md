@@ -39,12 +39,13 @@ un contenedor, esta aislado del sistema operativo, tiene solo lo que se necesita
 
 ## GitHUB
 Se crearon distintos repositorios de github con diferentes branches.
-https://github.com/mornaeldernar/lab-test-ci.git
-https://github.com/mornaeldernar/myAPI-books.git
-https://github.com/mornaeldernar/myAPI-accounts.git
-https://github.com/mornaeldernar/myAPI-terraform.git
-https://github.com/mornaeldernar/pet-clinic.git
-
+<ul>
+<li>https://github.com/mornaeldernar/lab-test-ci.git</li>
+<li>https://github.com/mornaeldernar/myAPI-books.git</li>
+<li>https://github.com/mornaeldernar/myAPI-accounts.git</li>
+<li>https://github.com/mornaeldernar/myAPI-terraform.git</li>
+<li>https://github.com/mornaeldernar/pet-clinic.git</li>
+</ul>
 
 ## Terraform
 Descargar Terraform.
