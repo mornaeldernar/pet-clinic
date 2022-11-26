@@ -13,6 +13,8 @@ Scrum se utiliza para equipos de trabajo y como es individual se utilizará KANB
 VALORES
 ASPECTOS
 
+<a href="https://github.com/users/mornaeldernar/projects/4/">Tableros</a>
+
 ## TESTS
 <ul>
 <li>shouldNotValidateWhenFirstNameEmpty</li>
