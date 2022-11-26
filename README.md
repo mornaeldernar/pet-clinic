@@ -14,19 +14,20 @@ VALORES
 ASPECTOS
 
 ## TESTS
-shouldNotValidateWhenFirstNameEmpty
-testInitCreationForm
-testProcessCreationFormSuccess
-testProcessCreationFormHasErrors
-testInitFindForm
-testProcessFindFormSuccess
-testProcessFindFormByLastName
-testProcessFindFormNoOwnersFound
-testInitUpdateOwnerForm
-testProcessUpdateOwnerFormSuccess
-testProcessUpdateOwnerFormHasErrors
-testShowOwner
-
+<ul>
+<li>shouldNotValidateWhenFirstNameEmpty</li>
+<li>testInitCreationForm</li>
+<li>testProcessCreationFormSuccess</li>
+<li>testProcessCreationFormHasErrors</li>
+<li>testInitFindForm</li>
+<li>testProcessFindFormSuccess</li>
+<li>testProcessFindFormByLastName</li>
+<li>testProcessFindFormNoOwnersFound</li>
+<li>testInitUpdateOwnerForm</li>
+<li>testProcessUpdateOwnerFormSuccess</li>
+<li>testProcessUpdateOwnerFormHasErrors</li>
+<li>testShowOwner</li>
+</ul>
 	
 ![alt text](https://github.com/mornaeldernar/pet-clinic/blob/main/img/tests.png?raw=true)
 ![alt text](https://github.com/mornaeldernar/pet-clinic/blob/main/img/tests_code.png?raw=true)
